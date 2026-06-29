@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR2p0052/tls/v1
+canonical_location: https://kanripo.org/bkk/KR2p0052/tls/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楚竹書
+  identifiers:
+    krp: KR2p0052
+  tags:
+    kr-categories: KR2p
+    tls-internal: tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0052.xml
+  edition:
+    short: tls
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0052_001-tls.yaml, hash: 'sha256:dcf0061d7c5778173c9d86c75b134d8b8551c68aefb011c8d3d88c373ce8b33b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0052_001-tls.markers.yaml, hash: 'sha256:d5c905363faa506d215f2219faa57decb76e888b95665d39fdc94908bad017c3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 664
+  label: ''
+  type: section
+  level: 1
+hash: sha256:c8f904d69e3489961a90eecd826a5d7d52634aae3149ec8ce9bffa4e22ce543b
