@@ -281,6 +281,7 @@ markers:
   - {type: punctuation, offset: 440, content: (, id: KR2p0052_tls_001-bkkpn144}
   - {type: punctuation, offset: 440, content: '?', id: KR2p0052_tls_001-bkkpn145}
   - {type: punctuation, offset: 440, content: ), id: KR2p0052_tls_001-bkkpn146}
+  - {type: voice, offset: 440, length: 0, name: note, id: n1}
   - {type: 'tls:seg', offset: 441, content: '', id: KR2p0052_tls_001-12a.7}
   - {type: punctuation, offset: 441, content: '[', id: KR2p0052_tls_001-bkkpn147}
   - {type: punctuation, offset: 441, content: ']', id: KR2p0052_tls_001-bkkpn148}
@@ -399,4 +400,4 @@ markers:
   - {type: 'tls:seg', offset: 660, content: '', id: KR2p0052_tls_001-17a.8}
   - {type: xml-element, offset: 664, content: '', id: KR2p0052_tls_001-bkkxmlele34, name: p, role: close, attrs: {source: 'SHANGBO.JIKANGZIWEN 5.23.17 (STRIPS 19, 20) MACHENGYUAN 5: 228, 230 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:d5c905363faa506d215f2219faa57decb76e888b95665d39fdc94908bad017c3
+hash: sha256:30459ff80e9ae3949f642d99b0ac43a012e4710bffe87cd81b3dfeb8e4dd7bf2
